@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157cb8e6-1766-48b0-a9e5-3afbf521a678" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test slack Quan/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test slack Quan/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test slack Quan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test slack Quan/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -24,15 +25,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -47,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617419425278</updated>
       <workItem from="1617419426743" duration="74000" />
+      <workItem from="1617421004920" duration="209000" />
     </task>
     <servers />
   </component>
