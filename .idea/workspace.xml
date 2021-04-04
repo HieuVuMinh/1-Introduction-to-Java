@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157cb8e6-1766-48b0-a9e5-3afbf521a678" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readNumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readNumber/readNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readNumber/src/readNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greeting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greeting/src/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Greeting/src/Greeting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test slack Quan/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test slack Quan/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test slack Quan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Test slack Quan/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -53,6 +61,10 @@
       <updated>1617419425278</updated>
       <workItem from="1617419426743" duration="74000" />
       <workItem from="1617421004920" duration="209000" />
+      <workItem from="1617430759669" duration="138000" />
+      <workItem from="1617432251491" duration="632000" />
+      <workItem from="1617441339963" duration="44000" />
+      <workItem from="1617509227043" duration="105000" />
     </task>
     <servers />
   </component>
