@@ -22,7 +22,7 @@ public class readNumber {
                 }
                 if (numberArray4[a] == numberArray4[i]) {
                     System.out.println(numberArray3[i]);
-                    if (numberArray4[b] == numberArray4[i]){
+                    if ((numberArray4[b] == numberArray4[i])) {
                         System.out.println(numberArray1[i]);
                         break;
                     }
